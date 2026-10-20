@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🌦️ Real-Time Weather Forecast & Climate Telemetry App
 
 A responsive weather application built using **HTML, CSS, and JavaScript** that provides real-time weather information and a 5-day forecast for cities around the world using the OpenWeatherMap API.
