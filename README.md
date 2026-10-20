@@ -41,7 +41,7 @@ weather app/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+https://github.com/codesiddhu/Weather-App/
 ```
 
 Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual GitHub repository URL.
